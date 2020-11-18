@@ -1,0 +1,67 @@
+[Geekhack IC](https://geekhack.org/index.php?topic=109254.msg2972207#msg2972207)
+
+[IC Form](https://forms.gle/xxXUu3p4ptfhrgSM6)
+
+[Discord Server for Updates](https://discord.gg/C7GZgUu)
+
+[Album of V2 Renders and V1 Completed Boards](https://imgur.com/gallery/eb72NXv)
+
+[Type Test \(Courtesy of Karl\)](https://youtu.be/I4b3zf8fJ50)
+
+[Build Stream and Type Test of V1 \(Courtesy of Bueno_Builds\)](https://www.twitch.tv/videos/776805395)
+
+***Introducing the Function96 v.2, the Board Designed by an Engineer for Engineers, Accountants, and Anyone Who Needs A Numpad***
+
+A 96% layout for everyone looking for a premium 96% keyboard offered nowhere else!
+
+**Important Information Regarding V2:**
+
+* V2's Groupbuy will run from Nov 20 - 29.
+* V2's Groupbuy is limited to 50 units.
+* V2's price is currently set at $400 + shipping (~25$) not including options like cerakote and mill-max.
+* V2's Groupbuy will have 7/50 units reserved for V1 members who can give away their spot if they'd like.
+* USA Only
+
+**Features:**
+
+* Case and PCB design are all from yours truly (Thanks to the Keyboard Atelier Discord for all their help) 
+* Completely Screwless Exterior
+* Top/Burger Mount, with gaskets for burger mount rather than o-rings.
+* 6 degree typing angle.
+* Comes standard with a black or clear hardcoat anodization. Cerakotes and Guncandy will be addons, price will directly determined by the coater's quote (I won't be profiting off of cerakotes at all).
+* Blockers between bottom mods and arrow keys to support non-visual navigation (biggest issue with all other 96% layouts).
+* Blockers added for F-Row Keys for the same reason as states above.
+* Support for 6.25u Spacebars as well as 2.25 - 1.25 - 2.75u split space support.
+* USB-C
+* QMK and VIA compatilibility
+* Added an aesthetic cut along the top
+* Engraved JTM Logo on the bottom
+* Will come in a hardshell case
+* Added 6.25u space support
+* Added ISO support
+* Added Stepped Capslock support
+* Added ESD Protection
+* Proper Burger Mount Support
+* Learned lessons regarding finishing and shipping logistics :)
+
+
+
+
+[Geekhack IC](https://geekhack.org/index.php?topic=109254.msg2972207#msg2972207)
+
+[IC Form](https://forms.gle/xxXUu3p4ptfhrgSM6)
+
+[Discord Server for Updates](https://discord.gg/C7GZgUu)
+
+[Album of V2 Renders and V1 Completed Boards](https://imgur.com/gallery/eb72NXv)
+
+[Type Test \(Courtesy of Karl\)](https://youtu.be/I4b3zf8fJ50)
+
+[Build Stream and Type Test of V1 \(Courtesy of Bueno_Builds\)](https://www.twitch.tv/videos/776805395)
+
+**Contact Me:**
+
+* I'll be answering any questions posted on GH or Reddit ASAP.
+* Please join my [Discord server](https://discord.gg/TTmxev) if you'd like the fastest updates and just to chat about the Function96 or other keyboards in general! I'm very flexible and open to advice/criticism. I'm willing to make changes to the design and features of the upcoming GB based on input from the community :)
+
+Looking forward to hearing from all of you!

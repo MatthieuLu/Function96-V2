@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name keyboard-cache)(type Legacy)(uri E:/Github/Function96-V2/PCB/PCB/keyboard-cache.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri E:/Github/Function96-V2/PCB/PCB/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri E:/Github/Function96-V2/PCB/PCB/Schematic_Library/MX_Alps_Hybrid.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "E:/Github/Function96-V2/PCB/PCB/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
