@@ -1,0 +1,31 @@
+*November 19*
+@everyone 
+
+**GB Runs from November 20 (19 for Discord) - 29**
+
+Form: https://forms.gle/SKtEQnMUu12BG11G7
+
+Details:
+- **Price: $400 + shipping ($20) + Paypal Fees ($12)
+- **50 unit maximum**, if the order count exceeds 50, it will be done by random raffle. V1 owners have reserved slots that they can give away.
+- Discord entries will have higher priority than Reddit GB Form responses.
+
+Included in This Price:
+- Function96v2 Case (Top and Bottom)
+- Hardcoat Type III Anodization standard (Black or Clear/Grey/Silver)
+- Function96v2 Black FR4 Plate
+- Function96v2 Black PCB
+- TX Case for Transportation
+- Shipping
+
+Additional Options:
+- Additional PCB/Plates will be $45 extras.
+- Cerakotes/Guncandies will be an optional addon, pricing will be a per-case basis and a separate charge from the keyboard. Ranges from $40 - $150 depending on Cerakote/Guncandy option chosen (I will be doing a Chimera Guncandy guaranteed). After the GB closes, you will have 2-3 weeks to discuss with other V2 buyers on what colors you want to help coordinate and bring the costs down.
+- **Mill-maxing (Hotswap) Service will be offered as a 60$ addon** with 0305 sockets.
+
+Additional Details:
+- **You will have up to 1 week after I close the GB to pay. If you do not pay, I will FCFS your spot in the Discord at an announced time and give the new buyers 3 days to pay.**
+- I do have a MOQ of 35 technically, but let's hope we don't hit that few.
+- Please check out #v2-design-updating to see design updates for V2!
+- 7/50 units reserved for @V1 buyers, though they will have the option of giving up their spot to someone if they'd like and don't intend on buying the V2 board.
+- **Expected 2 month fulfillment time after all invoices are paid**, 3 -4 months maximum if EVERYTHING manages to get delayed.

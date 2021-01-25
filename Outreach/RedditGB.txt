@@ -1,0 +1,92 @@
+[Geekhack IC](https://geekhack.org/index.php?topic=109254.msg2972207#msg2972207)
+
+[GB Form](https://forms.gle/SKtEQnMUu12BG11G7)
+
+[Discord Server for Updates](https://discord.gg/C7GZgUu)
+
+[Album of V2 Renders and V1 Completed Boards (Check out the Guncandy, it's gorgeous)](https://imgur.com/gallery/IVDZUP3)
+
+[Album of V2 PCB and Mounting](https://imgur.com/gallery/wjGgCyU)
+
+[Type Test \(Courtesy of Karl\)](https://youtu.be/I4b3zf8fJ50)
+
+[Build Stream and Type Test of V1 \(Courtesy of Bueno_Builds\)](https://www.twitch.tv/videos/776805395)
+
+***Introducing the Function96 v.2, the Board Designed by an Engineer for Engineers, Accountants, and Anyone Who Needs A Numpad***
+
+A premium 96% Keyboard with a layout offered nowhere else, in any color you want! Custom Cerakote option offered.
+
+**The Group Buy:**
+
+* V2's Groupbuy will run from Nov 20 - 29.
+* V2's Groupbuy is limited to 50 units, and are raffled spots.
+* V2's price is $400 + shipping ($20) + Paypal fees ($12) (not including options like cerakote and mill-max.)
+* V2's Groupbuy will have 7/50 units reserved for V1 members who can give away their spot if they'd like.
+
+**What Included in the Package?**
+
+* Function96v2 Case
+* Hardcoat Type III (Black or Clear) Anodization
+* Function96v2 Black PCB
+* Function96v2 Black FR4 Plate
+* 2 Full Sets of Custom Cut Gaskets
+* TX Case
+* M2 Screws
+* Allen Key
+* Shipping (USA)
+
+**Additional Options:**
+
+* Extra PCB/Plate Bundles for $45
+* Mill-max (Hotswap) Service for $60
+* Custom Cerakote/Guncandy (Cost will very depending on your choice from $35 - $150. You will be able to coordinate with others to get the same color to help bring costs down.)
+
+**Important Information Regarding the GB:**
+
+* You will have 1 week after the closing of the GB to pay the invoice. After that, I will select others to replace your spot, and those selected will have 3 days to pay the invoice.
+* I do have a MOQ of about 35 technically, but hopefully we hit that.
+* Expected 2 month fulfillment time after GB is closed and invoices are paid, 3-4 months if things get delayed.
+
+**Function96v2 Features:**
+
+* Case and PCB design are all from yours truly (Thanks to the Keyboard Atelier Discord for all their help) 
+* Completely Screwless Exterior
+* Top/Burger Mount, with gaskets for burger mount rather than o-rings.
+* 6 degree typing angle.
+* Added an aesthetic cut along the top
+* Engraved JTM Logo on the bottom
+* Comes standard with a black or clear hardcoat anodization. Cerakotes and Guncandy will be addons, price will directly determined by the coater's quote (I won't be profiting off of cerakotes at all).
+* Blockers between bottom mods and arrow keys to support non-visual navigation (biggest issue with all other 96% layouts).
+* Blockers added for F-Row Keys for the same reason as stated above.
+* ISO Support
+* Stepped Capslock Support
+* 6.25u Spacebar Support
+* 2.25u - 1.25u - 2.75u Split Space Support
+* USB-C
+* QMK and VIA compatilibility
+* Added ESD Protection
+* Custom Burger Mount Option with Gaskets instead of O-Rings.
+* Learned lessons regarding finishing and shipping logistics :)
+* TX Case Included
+
+
+
+
+[Geekhack IC](https://geekhack.org/index.php?topic=109254.msg2972207#msg2972207)
+
+[IC Form](https://forms.gle/xxXUu3p4ptfhrgSM6)
+
+[Discord Server for Updates](https://discord.gg/C7GZgUu)
+
+[Album of V2 Renders and V1 Completed Boards](https://imgur.com/gallery/IVDZUP3)
+
+[Album of V2 PCB and Mounting](https://imgur.com/gallery/wjGgCyU)
+
+[Type Test \(Courtesy of Karl\)](https://youtu.be/I4b3zf8fJ50)
+
+[Build Stream and Type Test of V1 \(Courtesy of Bueno_Builds\)](https://www.twitch.tv/videos/776805395)
+
+**Contact Me:**
+
+* I'll be answering any questions posted on GH or Reddit ASAP.
+* Please join my [Discord server](https://discord.gg/C7GZgUu) for updates. It will be required for V2 buyers for updates, timely communication between me and you, cerakote coordination with your peers, etc.

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Keybage_Components)(type KiCad)(uri ${KIPRJMOD}/KeybageLibrary-master/KeybageLibrary-master/footprints/Keybage_Components.pretty)(options "")(descr ""))
+  (lib (name Keybage_MountingHoles)(type KiCad)(uri ${KIPRJMOD}/KeybageLibrary-master/KeybageLibrary-master/footprints/Keybage_MountingHoles.pretty)(options "")(descr ""))
+  (lib (name Keybage_MX)(type KiCad)(uri ${KIPRJMOD}/KeybageLibrary-master/KeybageLibrary-master/footprints/Keybage_MX.pretty)(options "")(descr ""))
+  (lib (name Keybage_MX_Cutout)(type KiCad)(uri ${KIPRJMOD}/KeybageLibrary-master/KeybageLibrary-master/footprints/Keybage_MX_Cutout.pretty)(options "")(descr ""))
+)
